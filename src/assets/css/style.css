@@ -22,7 +22,7 @@
   background-color: #3c3c3c;
   height: 80px;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   color: white;
   position: fixed;
